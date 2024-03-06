@@ -14,7 +14,6 @@ Exploratory Data Analysis (EDA): During the EDA phase, the following insights we
 Popular Product Categories and Brands: Analyzed the distribution of products across different categories and brands to identify the most popular ones. Pricing Strategies and Discount Patterns: Investigated the pricing strategies employed by sellers and the frequency of discounts offered on products. Seller Performance and Behavior: Evaluated the performance of sellers based on factors such as sales volume, customer ratings, and product availability. Customer Preferences and Satisfaction Levels: Explored customer preferences by analyzing product ratings, purchasing behavior, and satisfaction levels.
 
 Conclusion:
-
 1. People buying more clothing and accessories in ecommerce platform.
 2. People prefer ARBO brand and RetailNet seller in ecommerce platform .
 3. People more intrested in buying topwear is ecommerce platform.
